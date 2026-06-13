@@ -1,0 +1,8 @@
+{
+  "name": "منصة المحاسبة التفاعلية",
+  "description": "صفحة هبوط تفاعلية ومبتكرة تشرح مبادئ المحاسبة مع محاكي القيد المزدوج، مخطط القوائم المالية، واختبار غني بالأنيميشن والمؤثرات البصرية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

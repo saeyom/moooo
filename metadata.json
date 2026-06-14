@@ -1,6 +1,6 @@
 {
-  "name": "منصة المحاسبة التفاعلية",
-  "description": "صفحة هبوط تفاعلية ومبتكرة تشرح مبادئ المحاسبة مع محاكي القيد المزدوج، مخطط القوائم المالية، واختبار غني بالأنيميشن والمؤثرات البصرية.",
+  "name": "Interactive Accounting Hub",
+  "description": "An interactive and elegant educational sandbox on double-entry bookkeeping, ledger, and accounting equation, built in Arabic.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
